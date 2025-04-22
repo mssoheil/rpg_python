@@ -1,4 +1,4 @@
-# Python text based rpg
+# Python text based rpg game
 
 ## creating the player
 
